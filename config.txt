@@ -1,7 +1,3 @@
--- RENSTALL --
-reinstall = ""
-reinstall_message = ""
-
 -- STOP USE --
 stop_use = ""
 stop_use_message = ""
