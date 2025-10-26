@@ -1,5 +1,5 @@
 # Calculator with fractions, square roots, degrees and many other features.
-It was created on 20.11.2024. The first version is 0.1.
+It was created on 20.11.2024.
 
 # WARNING!
 # DON'T INSTALL IT IN PROGRAM FILES
