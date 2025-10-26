@@ -1,7 +1,7 @@
 -- RENSTALL --
-reinstall = "0.0.0.1a"
+reinstall = ""
 reinstall_message = ""
 
 -- STOP USE --
 stop_use = ""
-stop_use_message = ""
+stop_use_message = "all"
