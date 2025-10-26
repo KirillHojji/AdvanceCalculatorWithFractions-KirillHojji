@@ -1,0 +1,7 @@
+-- RENSTALL --
+reinstall = ""
+reinstall_message = ""
+
+-- STOP USE --
+stop_use = "" (тоже версия или all)
+stop_use_message = ""
