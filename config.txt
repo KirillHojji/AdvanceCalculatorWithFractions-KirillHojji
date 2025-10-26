@@ -3,5 +3,5 @@ reinstall = ""
 reinstall_message = ""
 
 -- STOP USE --
-stop_use = ""
-stop_use_message = "all"
+stop_use = "all"
+stop_use_message = ""
