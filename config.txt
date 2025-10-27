@@ -1,3 +1,5 @@
+#This is a configuration file that is important for the operation of the application for all users (it checks the data here)
+
 -- STOP USE --
 stop_use = ""
 stop_use_message = ""
