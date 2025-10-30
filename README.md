@@ -1,7 +1,7 @@
 # AdvanceCalculatorWithFractions-KirillHojji
 
-**Текущая версия:** 0.0.1.0
-**Автор:** KirillHojji
+**Текущая версия:** 0.0.1.0  
+**Автор:** KirillHojji  
 **Условия использования:** [Открыть](https://sites.google.com/view/terms-calculator-kirillhojji/%E3%85%A4)
 
 ---
