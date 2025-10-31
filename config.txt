@@ -1,8 +1,8 @@
 # This is a configuration file that is important for the operation of the application for all users (it checks the data here)
 
 -- STOP USE --
-stop_use = "all"
-stop_use_message = "Временная приостановка всех версий для улучшения работы c alpha и beta"
+stop_use = ""
+stop_use_message = ""
 
 -- REINSTALL --
 reinstall = "0.0.1.0a"
