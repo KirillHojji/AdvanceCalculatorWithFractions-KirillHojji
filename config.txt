@@ -2,4 +2,4 @@
 
 -- STOP USE --
 stop_use = "all"
-stop_use_message = "Временная приостановка всех версий для улучшения работы над версиями alpha и beta"
+stop_use_message = "Временная приостановка всех версий для улучшения работы c alpha и beta"
