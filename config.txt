@@ -5,6 +5,6 @@ stop_use = ""
 stop_use_message = ""
 
 -- REINSTALL --
-reinstall = "0.0.1.0a"
-reinstall_message = "Тесты"
-rever = "1"
+reinstall = ""
+reinstall_message = ""
+rever = ""
