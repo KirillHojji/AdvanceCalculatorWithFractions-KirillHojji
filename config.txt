@@ -5,6 +5,6 @@ stop_use = "all"
 stop_use_message = "Временная приостановка всех версий для улучшения работы c alpha и beta"
 
 -- REINSTALL --
-reinstall = "0.0.1.1"
+reinstall = "0.0.1.0a"
 reinstall_message = ""
 rever = "1"
