@@ -1,5 +1,10 @@
-#This is a configuration file that is important for the operation of the application for all users (it checks the data here)
+# This is a configuration file that is important for the operation of the application for all users (it checks the data here)
 
 -- STOP USE --
 stop_use = "all"
 stop_use_message = "Временная приостановка всех версий для улучшения работы c alpha и beta"
+
+-- REINSTALL --
+reinstall = ""
+reinstall_message = ""
+rever = ""
